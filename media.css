@@ -1,0 +1,12 @@
+@media (min-width:0) and (max-width:575px){
+    .banner_text{
+
+        text-align: center;
+    }
+    .phone{
+        display: none;
+    }
+    .banner_button2{
+        margin-left: 0;
+    }
+}
